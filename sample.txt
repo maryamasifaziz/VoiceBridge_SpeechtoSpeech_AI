@@ -1,0 +1,5 @@
+https://docs.streamlit.io/develop/api-reference/widgets
+https://www.langchain.com/langgraph
+https://www.langflow.org/
+https://www.microsoft.com/en-us/research/project/autogen/
+https://agpt.co/

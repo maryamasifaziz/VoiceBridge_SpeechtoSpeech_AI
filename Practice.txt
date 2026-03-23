@@ -1,0 +1,8 @@
+3 Stages
+
+1. ASR (Automatic Speech Recognition): speech ko text main convert krna
+2. LLM /Brain : Transcript ko samjh kr reply generate karega
+3. TTS (Text to Speech) : reply text ko wapis audio main convr karayga
+
+Mic -> WAV bytes -> ASR (fast whisper) -> Transcript text -> LLM  - > reply text 
+-> TTS (gtts or piper) -> audio bytes -> st.audio player
