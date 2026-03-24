@@ -2,7 +2,7 @@ streamlit
 python-dotenv
 requests
 # speech to text
-fasvoice\ter-whisper # ASR
+faster-whisper
 # TTS Options (choose one in .env)
 gTTS #TTS 
 piper-tts # offline neural TTS
